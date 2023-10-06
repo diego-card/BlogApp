@@ -1,5 +1,6 @@
 import axios from 'axios'
-const apiUrl = 'http://localhost:3003'
+// const apiUrl = 'http://localhost:3003'
+const apiUrl = 'https://blogapp-qr9y.onrender.com'
 const baseUrl = '/api/users'
 const trueUrl = apiUrl + baseUrl
 
