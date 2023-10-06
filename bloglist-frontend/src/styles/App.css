@@ -1,0 +1,63 @@
+@import 'bulma/css/bulma.css';
+
+/* #page {
+    min-height: 100vh;
+} */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 100px;
+}
+
+#to-right-screen {
+    position: absolute;
+    right: 0;
+}
+
+
+/* Form */
+.centering {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    padding-bottom: 3%;
+}
+
+/* Columns */
+.columns {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/* Colors */
+.orange-primary {
+    color: #ce7427;
+}
+
+.orange-secondary {
+    color: #ffe7db;
+}
+
+.orange-accent {
+    color: #ff8e3d;
+}
+
+.has-background-orangeP {
+    background-color: #ce7427;
+}
+
+.has-background-orangeS {
+    background-color: #fff3ed;
+}
+
+.has-background-orangeA {
+    background-color: #ff8e3d;
+    font-weight: bolder;
+}

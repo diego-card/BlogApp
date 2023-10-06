@@ -1,0 +1,18 @@
+#footer {
+    position: absolute;
+    bottom: 0;
+    background-color: #ce7427;
+    height: 50px;
+    width: 100%;
+    padding: 14px;
+}
+
+/* 
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 1%; */
+    /* margin-top: 13%;
+} */
