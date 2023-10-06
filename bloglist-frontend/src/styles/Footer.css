@@ -7,6 +7,17 @@
     padding: 14px;
 }
 
+#aTag {
+    text-decoration: none;
+    color: inherit;
+    /* Inherit the color from the parent element, typically black or blue */
+}
+
+/* Apply styles only on hover */
+#aTag:hover {
+    color: #000000;
+}
+
 /* 
 .footer {
     position: relative;
@@ -14,5 +25,5 @@
     width: 100%;
     padding-top: 2%;
     padding-bottom: 1%; */
-    /* margin-top: 13%;
+/* margin-top: 13%;
 } */

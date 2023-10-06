@@ -3,9 +3,9 @@ import '../styles/Footer.css'
 const Footer = () => {
     return (
         <footer className="" id='footer'>
-            <div className="content has-text-centered has-text-white-ter">
+            <div className="content has-text-centered has-text-white-ter has-text-weight-bold">
                 <p>
-                    Diego Cardoso
+                    <a id="aTag" href="https://github.com/diego-card">Diego Cardoso</a>
                 </p>
             </div>
         </footer>
